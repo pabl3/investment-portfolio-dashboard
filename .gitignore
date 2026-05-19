@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos generados
+data/
+
+# VS Code
+.vscode/
+
+# Variables de entorno
+.env
